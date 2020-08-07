@@ -4,4 +4,5 @@ jar {
     manifest {
         attributes 'Main-Class': 'net.petrikainulainen.gradle.HelloWorld'
     }
+    
 }

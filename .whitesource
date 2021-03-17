@@ -3,12 +3,14 @@
     "configMode": "AUTO",
     "configExternalURL": "",
     "projectToken": "",
+    "enableLicenseViolations": "true",
     "baseBranches": []
   },
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure"
   },
   "issueSettings": {
-    "minSeverityLevel": "LOW"
+    "minSeverityLevel": "LOW",
+    "displayLicenseViolations": "true"
   }
 }
